@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yaminyam)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Isaac-Lee)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=isaaclys)](https://solved.ac/isaaclys)
