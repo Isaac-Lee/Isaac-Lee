@@ -18,7 +18,8 @@ Safe and Clean programing is philosophy that I care the most.
   
 ## Techs
 <div align="center">
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><sub>created by https://github.com/qkrdmstlr3/techstack-generator</sub>
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /></div>
+  <sub>created by https://github.com/qkrdmstlr3/techstack-generator</sub>
 </div>
 
 ## GitHub stat
