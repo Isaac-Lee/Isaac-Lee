@@ -4,11 +4,11 @@
 </div>
 
 # Hello! I am Isaac Lee👋🏻
-I love developing. Currently I am Interested in Front-End Developmt and Programing Languages.  
+I love developing. Especially interested in Front-End and Programing Languages (for now).  
 Safe and Clean programing is philosophy that I care the most.
 
 **Studying...**
-- React w/ Typscript [[repo]](https://github.com/Isaac-Lee/React-study-typescript)
+- React w/ Typescript [[repo]](https://github.com/Isaac-Lee/React-study-typescript)
 - Javascript Clean-Code [[repo]](https://github.com/Isaac-Lee/cleancode-javascript)
 - Python Language Formal Sementics
 
