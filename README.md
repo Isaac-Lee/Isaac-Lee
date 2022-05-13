@@ -1,18 +1,14 @@
-<div align=center>
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=d3C392&height=200&section=header&text=Isaac%20Lee&fontSize=50&fontColor=3B3B3B)
-</div>
-
 # Hello! I am Isaac Lee👋🏻
 I love developing. Especially interested in Front-End and Programing Languages (for now).  
 Safe and Clean programing is philosophy that I care the most.
 
 **Studying...**
-- React w/ Typescript [[repo]](https://github.com/Isaac-Lee/React-study-typescript)
 - Javascript Clean-Code [[repo]](https://github.com/Isaac-Lee/cleancode-javascript)
+- Next.js [[repo]](https://github.com/Isaac-Lee/nextjs-study)
 - Python Language Formal Sementics
 
 **Working on...**
+- My own blog website w/ Nest.js + Typescript
 - Python Interpreter w/ OCaml
 - RECode (C language static analysis VS Code extesion)
   
