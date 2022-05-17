@@ -4,7 +4,7 @@ Safe and Clean programing is philosophy that I care the most.
 
 **Studying...**
 - Javascript Clean-Code [[repo]](https://github.com/Isaac-Lee/cleancode-javascript)
-- Next.js [[repo]](https://github.com/Isaac-Lee/nextjs-study)
+- Making API w/ Nest.js [[repo]](https://github.com/Isaac-Lee/nestjs-study)
 - Python Language Formal Sementics
 
 **Working on...**
