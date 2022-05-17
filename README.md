@@ -11,6 +11,11 @@ Safe and Clean programing is philosophy that I care the most.
 - My own blog website w/ Nest.js + Typescript
 - Python Interpreter w/ OCaml
 - RECode (C language static analysis VS Code extesion)
+
+## Contact me
+
+- 📧 Email : isaac.lee.3412@gmail.com
+- 📷 Instagram : `__developer.lee__`
   
 ## Techs
 <div align="center">
