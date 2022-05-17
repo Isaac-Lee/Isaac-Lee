@@ -1,6 +1,10 @@
 # Hello! I am Isaac Lee👋🏻
-I love developing. Especially interested in Front-End and Programing Languages (for now).  
-Safe and Clean programing is philosophy that I care the most.
+I love developing. Especially interested in Web Programing and Programing Languages (for now).  
+Safe and Clean programing is philosophy that I care the most.   
+And also I like to write down things that I learned, insights, poject logs.
+
+> _"Safe, Clean, Reliable and Elegance"_  
+> _"No memo, No memory"_
 
 **Studying...**
 - Javascript Clean-Code [[repo]](https://github.com/Isaac-Lee/cleancode-javascript)
