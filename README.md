@@ -8,7 +8,6 @@ And also I like to write down things that I learned, insights, poject logs.
 
 **Studying...**
 - Javascript Clean-Code [[repo]](https://github.com/Isaac-Lee/cleancode-javascript)
-- Making API w/ Nest.js [[repo]](https://github.com/Isaac-Lee/nestjs-study)
 - Python Language Formal Sementics
 
 **Working on...**
