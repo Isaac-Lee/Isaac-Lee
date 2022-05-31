@@ -11,7 +11,7 @@ And also I like to write down things that I learned, insights, poject logs.
 - Python Language Formal Sementics
 
 **Working on...**
-- My own webservice w/ Nest.js + Typescript / Nest.js + MySQL
+- My own webservice
 - Python Interpreter w/ OCaml
 - RECode (C language static analysis VS Code extesion)
 
