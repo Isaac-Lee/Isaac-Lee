@@ -11,9 +11,9 @@ And also I like to write down things that I learned, insights, poject logs.
 - Python Language Formal Sementics
 
 **Working on...**
-- My own webservice
+- wikeebia: keyboard information website [[repo]](https://github.com/stars/Isaac-Lee/lists/wikeebia)
 - Python Interpreter w/ OCaml
-- RECode (C language static analysis VS Code extesion)
+- RECode (C language static analysis VS Code extesion)[[repo]](https://github.com/REvel0per)
 
 ## Contact me
 
