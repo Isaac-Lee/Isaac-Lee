@@ -18,7 +18,7 @@ And also I like to write down things that I learned, insights, poject logs.
 ## Contact me
 
 - 📧 Email : isaac.lee.3412@gmail.com
-- 📷 Instagram : `__developer.lee__`
+- 📷 Instagram : [`__developer.lee__`](https://www.instagram.com/__developer.lee__/)
 - ℹ️ LinkedIn : [Isaac(Yesung) Lee](https://www.linkedin.com/in/isaac-lee-0221/)
   
 ## Techs
