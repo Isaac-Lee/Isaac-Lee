@@ -7,7 +7,6 @@ And also I like to write down things that I learned, insights, poject logs.
 > _"No memo, No memory"_
 
 **Studying...**
-- OCaml Language [[repo]](https://github.com/Isaac-Lee/ocaml-study)
 - Typescript Type Challenge [[repo]](https://github.com/Isaac-Lee/type-challenges)
 - Javascript Clean-Code [[repo]](https://github.com/Isaac-Lee/cleancode-javascript)
 - Python Language Formal Sementics
