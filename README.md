@@ -12,9 +12,10 @@ And also I like to write down things that I learned, insights, poject logs.
 - Typescript Type Challenge [[repo]](https://github.com/Isaac-Lee/type-challenges)
 
 **Working on...**
-- **wikeebia**: keyboard information website [[repo]](https://github.com/stars/Isaac-Lee/lists/wikeebia)
 - Python Interpreter w/ OCaml
 - **RECode**: C language static analysis VS Code extesion [[repo]](https://github.com/REvel0per)
+- **wikeebia**: keyboard information website [[repo]](https://github.com/stars/Isaac-Lee/lists/wikeebia)
+
 
 ## Contact me
 
