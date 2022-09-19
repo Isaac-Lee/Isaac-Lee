@@ -8,8 +8,8 @@ And also I like to write down things that I learned, insights, poject logs.
 
 **Studying...**
 - Web Backend Development w/ NestJS, GraphQL, Jest
-- Typescript Type Challenge [[repo]](https://github.com/Isaac-Lee/type-challenges)
 - Python Language Formal Sementics
+- Typescript Type Challenge [[repo]](https://github.com/Isaac-Lee/type-challenges)
 
 **Working on...**
 - **wikeebia**: keyboard information website [[repo]](https://github.com/stars/Isaac-Lee/lists/wikeebia)
