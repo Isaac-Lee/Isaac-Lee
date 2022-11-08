@@ -6,6 +6,8 @@ And also I like to write down things that I learned, insights, poject logs.
 > _"Safe, Clean, Reliable and Elegance"_  
 > _"No memo, No memory"_
 
+**[[Resume]](https://isaaclys.notion.site/Isaac-Lee-5fc30bdde577474688e1bd1ec91f54ca)**
+
 **Studying...**
 - Web Backend Development w/ NestJS, GraphQL, Jest
 - Python Language Formal Sementics
