@@ -1,5 +1,5 @@
 # Hello! I am Isaac Lee👋🏻
-I love developing. Especially interested in Web Programing and Programing Languages (for now).  
+I love developing. Especially interested in DevOps Engineering (for now). 
 Safe and Clean programing is philosophy that I care the most.   
 And also I like to write down things that I learned, insights, poject logs.
 
@@ -9,15 +9,11 @@ And also I like to write down things that I learned, insights, poject logs.
 **[[Resume]](https://isaaclys.notion.site/Isaac-Lee-5fc30bdde577474688e1bd1ec91f54ca)**
 
 **Studying...**
-- Web Backend Development w/ NestJS, GraphQL, Jest
-- Python Language Formal Sementics
-- Typescript Type Challenge [[repo]](https://github.com/Isaac-Lee/type-challenges)
+- Kubernetes
+- CI/CD chains
 
 **Working on...**
-- Python Interpreter w/ OCaml
-- **RECode**: C language static analysis VS Code extesion [[repo]](https://github.com/REvel0per)
-- **wikeebia**: keyboard information website [[repo]](https://github.com/stars/Isaac-Lee/lists/wikeebia)
-
+- DevOps Engineering in Satrec Initiative
 
 ## Contact me
 
