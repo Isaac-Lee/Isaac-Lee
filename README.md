@@ -1,7 +1,7 @@
 # Hello! I am Isaac Lee👋🏻
-I love developing. Especially interested in DevOps Engineering (for now). 
-Safe and Clean programing is philosophy that I care the most.   
-And also I like to write down things that I learned, insights, poject logs.
+I love developing. Especially interested in DevOps Engineering (for now).
+
+Safe and Clean programing is philosophy that I care the most.
 
 > _"Safe, Clean, Reliable and Elegance"_  
 > _"No memo, No memory"_
