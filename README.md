@@ -15,6 +15,7 @@ Safe and Clean programing is philosophy that I care the most.
 - 📧 Email : isaac.lee.3412@gmail.com
 - 📷 Instagram : [`__developer.lee__`](https://www.instagram.com/__developer.lee__/)
 - ℹ️ LinkedIn : [Isaac(Yesung) Lee](https://www.linkedin.com/in/isaac-lee-0221/)
+- 📝 Blog : [아이작의 작(作)](https://isaaclee.tistory.com/) (Korean, No English)
   
 ## Techs
 #### DevOps
