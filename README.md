@@ -9,7 +9,7 @@ Safe and Clean programing is philosophy that I care the most.
 **[[Resume]](https://isaaclys.notion.site/Isaac-Lee-5fc30bdde577474688e1bd1ec91f54ca)**
 
 **Studying & Working on...**
-- DevOps Engineering in Satrec Initiative
+- DevOps Engineering at Satrec Initiative
 
 ## Contact me
 - 📧 Email : isaac.lee.3412@gmail.com
