@@ -24,6 +24,7 @@ Safe and Clean programing is philosophy that I care the most.
 ![github-action](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![sonarqube](https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white)
 ![argoCD](https://img.shields.io/badge/Argo-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
 ![harbor](https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white)
