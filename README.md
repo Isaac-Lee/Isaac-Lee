@@ -6,8 +6,6 @@ Safe and Clean programing is philosophy that I care the most.
 > _"Safe, Clean, Reliable and Elegance"_  
 > _"No memo, No memory"_
 
-**[[Resume]](https://isaaclys.notion.site/Isaac-Lee-5fc30bdde577474688e1bd1ec91f54ca)**
-
 **Studying & Working on...**
 - DevOps Engineering at Satrec Initiative
 
